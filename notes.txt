@@ -1,0 +1,26 @@
+What is need of data validation?
+we dont want put burdon to server.
+
+what is server responsibility? serving more client.
+
+if want client side data validation?
+we have only two options
+1.HTML Form Attributes
+2.Using JS code
+1.HTML FOrm Attributes
+<input type='text'/>
+-----------------------------
+1.required
+2.disabled
+3.readonly
+4.name
+5.id
+6.min
+7.max
+8.minlength
+9.maxlength
+10.tabindex
+11.value
+12.placeholder
+13.patter
+14.step index
